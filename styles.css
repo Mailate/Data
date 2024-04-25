@@ -26,3 +26,8 @@ font-size: 16px;
 margin: 4px 2px;
 cursor: pointer;
 }
+#galerie img {
+    width: 100%;
+    max-width: 200px;
+    margin: 10px;
+    }
